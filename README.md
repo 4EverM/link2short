@@ -18,3 +18,11 @@ The tests were carried out using [postman](https://www.postman.com/).
 
 ## References
 This project references this [video](https://www.bilibili.com/video/BV1Pd4y1k7sD) and [tiny_url](https://github.com/snack8310/tiny-url).
+
+## TODO
+1. - [ ] Add `/delete` route
+2. - [ ] Optimize the function of getting all links
+3. - [ ] Add a simple web page using [tera](https://github.com/Keats/tera)
+
+
+Welcome to issue and pull request.
